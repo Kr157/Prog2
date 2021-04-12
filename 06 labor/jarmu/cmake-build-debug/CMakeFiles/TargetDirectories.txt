@@ -1,0 +1,3 @@
+A:/Download/Hazi/egyetem/2/2 infoc++/2/labor/06 labor/jarmu/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Download/Hazi/egyetem/2/2 infoc++/2/labor/06 labor/jarmu/cmake-build-debug/CMakeFiles/jarmu.dir
+A:/Download/Hazi/egyetem/2/2 infoc++/2/labor/06 labor/jarmu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

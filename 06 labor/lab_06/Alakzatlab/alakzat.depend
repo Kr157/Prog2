@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1585647897 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\alakzat.cpp
+	"alakzat.h"
+
+1585647993 a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\alakzat.h
+	<iostream>
+	"memtrace.h"
+	"pont.h"
+	"szin.h"
+
+1585514190 a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1585514190 a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\pont.h
+	<iostream>
+
+1585514190 a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\szin.h
+	<iostream>
+
+1585514190 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\kor.cpp
+	"kor.h"
+
+1585514190 a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\kor.h
+	"alakzat.h"
+
+1585514190 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\main.cpp
+	<iostream>
+	"szakasz.h"
+	"kor.h"
+
+1585514190 a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\szakasz.h
+	"alakzat.h"
+
+1585514190 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1585514190 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\pont.cpp
+	"pont.h"
+
+1585514190 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\szakasz.cpp
+	"szakasz.h"
+
+1585514190 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\06 labor\lab_06\alakzatlab\szin.cpp
+	"szin.h"
+
