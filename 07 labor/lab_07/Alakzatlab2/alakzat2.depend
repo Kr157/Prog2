@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1585649663 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\alakzat.cpp
+	"alakzat.h"
+
+1586115744 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\alakzat.h
+	<iostream>
+	"memtrace.h"
+	"pont.h"
+	"szin.h"
+
+1585649663 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1586115743 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\pont.h
+	<iostream>
+
+1585649663 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\szin.h
+	<iostream>
+
+1586115744 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\haromszog.cpp
+	"haromszog.h"
+
+1586115744 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\haromszog.h
+	"alakzat.h"
+
+1586115872 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\kor.cpp
+	"kor.h"
+
+1586115744 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\kor.h
+	"alakzat.h"
+
+1585649663 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1586115867 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\poligon.cpp
+	<stdexcept>
+	"poligon.h"
+
+1586256198 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\poligon.h
+	"alakzat.h"
+
+1586115773 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\pont.cpp
+	"pont.h"
+
+1586115867 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\szakasz.cpp
+	"szakasz.h"
+
+1586115744 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\szakasz.h
+	"alakzat.h"
+
+1586115991 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\alakzat2_main.cpp
+	<iostream>
+	"szakasz.h"
+	"kor.h"
+	"teglalap.h"
+	"haromszog.h"
+	"poligon.h"
+	"rajztabla.h"
+
+1586115744 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\teglalap.h
+	"alakzat.h"
+
+1586115972 a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\rajztabla.h
+	"alakzat.h"
+
+1585649663 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\szin.cpp
+	"szin.h"
+
+1586115744 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\teglalap.cpp
+	"teglalap.h"
+
+1586113861 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\07 labor\lab_07\alakzatlab2\rajztabla.cpp
+	<stdexcept>
+	"rajztabla.h"
+
