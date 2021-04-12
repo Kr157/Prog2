@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1586861029 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\09 labor\lab_08\halmaz\halmaz_teszt.cpp
+	<iostream>
+	<stdexcept>
+	"gtest_lite.h"
+	"integer.h"
+	"point.h"
+	"myset.hpp"
+
+1586857382 a:\download\hazi\egyetem\2\2 infoc++\2\labor\09 labor\lab_08\halmaz\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1586857382 a:\download\hazi\egyetem\2\2 infoc++\2\labor\09 labor\lab_08\halmaz\integer.h
+
+1586857382 a:\download\hazi\egyetem\2\2 infoc++\2\labor\09 labor\lab_08\halmaz\point.h
+
+1586861067 a:\download\hazi\egyetem\2\2 infoc++\2\labor\09 labor\lab_08\halmaz\myset.hpp
+
