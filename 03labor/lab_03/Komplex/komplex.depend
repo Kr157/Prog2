@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1582658014 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\03labor\lab_03\komplex\komplex.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"komplex.h"
+
+1582621975 a:\download\hazi\egyetem\2\2 infoc++\2\labor\03labor\lab_03\komplex\komplex.h
+	"elkeszult.h"
+
+1582657986 a:\download\hazi\egyetem\2\2 infoc++\2\labor\03labor\lab_03\komplex\elkeszult.h
+
+1582621975 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\03labor\lab_03\komplex\komplex_teszt.cpp
+	<iostream>
+	<sstream>
+	"gtest_lite.h"
+	"elkeszult.h"
+	"komplex.h"
+
+1582621975 a:\download\hazi\egyetem\2\2 infoc++\2\labor\03labor\lab_03\komplex\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
