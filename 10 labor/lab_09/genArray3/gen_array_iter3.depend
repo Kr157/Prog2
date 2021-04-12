@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1587469372 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\10 labor\lab_09\genarray3\gen_array_iter3_test.cpp
+	<iostream>
+	<stdexcept>
+	<sstream>
+	"integer.h"
+	"sablonok.hpp"
+	"gen_array_iter3.hpp"
+	"gtest_lite.h"
+
+1587462990 a:\download\hazi\egyetem\2\2 infoc++\2\labor\10 labor\lab_09\genarray3\integer.h
+
+1587469579 a:\download\hazi\egyetem\2\2 infoc++\2\labor\10 labor\lab_09\genarray3\sablonok.hpp
+	<iostream>
+
+1587462990 a:\download\hazi\egyetem\2\2 infoc++\2\labor\10 labor\lab_09\genarray3\gen_array_iter3.hpp
+	<stdexcept>
+
+1587462990 a:\download\hazi\egyetem\2\2 infoc++\2\labor\10 labor\lab_09\genarray3\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
