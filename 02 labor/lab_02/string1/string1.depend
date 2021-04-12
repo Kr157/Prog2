@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1582016896 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\2 labor\lab_02\string1\memtrace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1582016896 a:\download\hazi\egyetem\2\2 infoc++\2\labor\2 labor\lab_02\string1\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
+1582016896 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\2 labor\lab_02\string1\string1_main.c
+	<stdio.h>
+	"memtrace.h"
+	"string1.h"
+
+1582016896 a:\download\hazi\egyetem\2\2 infoc++\2\labor\2 labor\lab_02\string1\string1.h
+
