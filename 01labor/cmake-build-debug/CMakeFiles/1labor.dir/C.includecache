@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+A:/Download/Hazi/egyetem/2/2 infoc++/2/1labor/library.c
+library.h
+A:/Download/Hazi/egyetem/2/2 infoc++/2/1labor/library.h
+stdio.h
+-
+
+A:/Download/Hazi/egyetem/2/2 infoc++/2/1labor/library.h
+

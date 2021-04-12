@@ -1,0 +1,2 @@
+C:\minigw\bin\ar.exe qc lib1labor.a  CMakeFiles/1labor.dir/library.c.obj
+C:\minigw\bin\ranlib.exe lib1labor.a

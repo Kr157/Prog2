@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "A:\Download\Hazi\egyetem\2\2 infoc++\2\1labor"
+-- The C compiler identification is GNU 4.8.3
+-- Check for working C compiler: C:/minigw/bin/gcc.exe
+-- Check for working C compiler: C:/minigw/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: A:/Download/Hazi/egyetem/2/2 infoc++/2/1labor/cmake-build-debug

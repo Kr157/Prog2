@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1581416814 source:a:\download\hazi\egyetem\2\2 infoc++\2\1labor\lab_01-master-62317cfbf66f7f6f3c5c0c2d97f6b9a5b9524e0c\nagyobb\fuggvenyeim.cpp
+	"fuggvenyeim.h"
+
+1581417975 a:\download\hazi\egyetem\2\2 infoc++\2\1labor\lab_01-master-62317cfbf66f7f6f3c5c0c2d97f6b9a5b9524e0c\nagyobb\fuggvenyeim.h
+
+1581416778 source:a:\download\hazi\egyetem\2\2 infoc++\2\1labor\lab_01-master-62317cfbf66f7f6f3c5c0c2d97f6b9a5b9524e0c\nagyobb\nagyobb_main.cpp
+	<iostream>
+	"fuggvenyeim.h"
+
+1581421598 source:a:\download\hazi\egyetem\2\2 infoc++\2\labor\01labor\lab_01-master-62317cfbf66f7f6f3c5c0c2d97f6b9a5b9524e0c\nagyobb\nagyobb_main.cpp
+	<iostream>
+	"fuggvenyeim.h"
+
+1581421575 a:\download\hazi\egyetem\2\2 infoc++\2\labor\01labor\lab_01-master-62317cfbf66f7f6f3c5c0c2d97f6b9a5b9524e0c\nagyobb\fuggvenyeim.h
+
